@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3ea09984-e8ac-42f7-8171-d8982f23c793": {
+      "ProjectGuid": "3ea09984-e8ac-42f7-8171-d8982f23c793",
+      "DisplayName": "RestAPIWithMongoDB",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

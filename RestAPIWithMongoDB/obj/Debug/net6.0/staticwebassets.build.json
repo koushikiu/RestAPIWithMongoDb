@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D9vY8+NwtN2zYMBoec+XlhSnsTY39yxHDsoEhg2Hbmo=",
+  "Source": "RestAPIWithMongoDB",
+  "BasePath": "_content/RestAPIWithMongoDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
